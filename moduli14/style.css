@@ -1,0 +1,29 @@
+article p {
+    background-color="red"
+    color: green;
+    padding: 20px;
+
+
+
+
+}
+
+
+article p > {
+    background-color="red"
+
+    padding: 20px;
+
+
+
+}
+
+
+article + p  {
+    background-color="orange"
+
+    padding: 20px;
+
+
+
+}
